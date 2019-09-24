@@ -1,0 +1,17 @@
+<div class="welcome-frame">
+<h2>Ovo je welcome page</h2>
+
+    <div class="container">
+        <ul class="tutorials">
+            <li data-ng-repeat="graph in welcome.graphs track by $index">
+                <div class="number">#{{$index + 1}}</div>
+                <h3>{{graph.title}}</h3>
+                <p>{{graph.description}}</p>
+                <div class="clearfix"></div>
+            </li>
+        </ul>
+
+    </div> 
+
+    {{str_show_local}}
+</div>
