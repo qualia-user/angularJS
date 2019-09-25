@@ -114,19 +114,19 @@
                 <div class="sidebar-wrapper">
                     <ul class="nav">
                         <li class="active ">
-                            <a href="#Welcome">
+                            <a ui-sref="welcome">
                                 <i class="nc-icon nc-bank"></i>
                                 <p>Dashboard</p>
                             </a>
                         </li>
                         <li>
-                            <a href="#GeneralSettings">
+                            <a ui-sref="settings">
                                 <i class="nc-icon nc-settings"></i>
                                 <p>Settings</p>
                             </a>
                         </li>
                         <li>
-                            <a href="#EmployeesSettings">
+                            <a ui-sref="/search">
                                 <i class="nc-icon nc-single-02"></i>
                                 <p>Fixed/scaled settings</p>
                             </a>
@@ -347,6 +347,7 @@
 <!-- CONTROLLERS -->
 <script src="sections/welcome/welcome.ctrl.js"></script>
 <script src="sections/search/search.ctrl.js"></script>
+<script src="sections/settings/settings.ctrl.js"></script>
 <script src="components/bar/bar.ctrl.js"></script>
 
 <!--    Services -->

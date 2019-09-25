@@ -65,54 +65,7 @@ function dataService($http, $rootScope, $log) {
         console.log('sasd');
         $log.error('XHR Failed for SvcApi');
     }
-    // function makeRequest(url, params) {
-    //     var requestUrl = BASE_URL + '/' + url + '?api_key=' + API_KEY;
-    //     angular.forEach(params, function(value, key){
-    //         requestUrl = requestUrl + '&' + key + '=' + value;
-    //     });
-    //     return $http({
-    //         'url': requestUrl,
-    //         'method': 'GET',
-    //         'headers': {
-    //             'Content-Type': 'application/json'
-    //         },
-    //         'cache': true
-    //     }).then(function(response){
-    //         return response.data;
-    //     }).catch(dataServiceError);
-    // }
-    // function getPremieres() {
-    //     //Get first day of the current month
-    //     var date = new Date();
-    //     date.setDate(1);
-    //     return makeRequest('discover/tv', {'first_air_date.gte': moment(date).format('DD-MM-YYYY'), append_to_response: 'genres'}).then(function(data){
-    //         return data.results;
-    //     });
-    // }
-    // function get(id) {
-    //     return makeRequest('tv/' + id, {});
-    // }
-    // function getCast(id) {
-    //     return makeRequest('tv/' + id + '/credits', {});
-    // }
-    // function search(query) {
-    //     return makeRequest('search/tv', {query: query}).then(function(data){
-    //         return data.results;
-    //     });
-    // }
-    // function getPopular() {
-    //     return makeRequest('tv/popular', {}).then(function(data){
-    //         $log.error('XHR Failed for SvcApi');
-    //         return data.results;
-    //     });
-    // }
-    // return data;
-    //
-    // function dataServiceError(errorResponse) {
-    //     $log.error('XHR Failed for ShowService');
-    //     $log.error(errorResponse);
-    //     return errorResponse;
-    // }
+
 }
 
 
