@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/template/sections/welcome/welcome.ctrl.js" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/template/index.php" line="245" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d7efedee-b022-402d-9a2b-47625764532d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/MuseoSans_100-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/MuseoSans_500-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/MuseoSans_500-webfont_1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/museosans_500-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/museosans_500-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/museosans_500-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/nucleo-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/nucleo-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/nucleo-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/nucleo-icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxicons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxiconsios.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxiconsios.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxiconsios.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxiconsmaterial.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxiconsmaterial.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/icons/dxiconsmaterial.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/css/custom-paper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/css/dx.common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/css/dx.light.compact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/fonts/museosans_500-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/dx.contrast.compact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/dx.contrast.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/dx.dark.compact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/dx.dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/css/dx.light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/js/dx.viz-web.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/js/dx/dx17.1.8/Lib/js/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/img/commissions_favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/assets/img/powered_by_businessQ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/components/bar/bar.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/directives/ngEnter.drct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/sections/search/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/sections/search/search.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/sections/search/search.tpl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/app.routes.js" afterPath="$PROJECT_DIR$/template/app.routes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/index.php" afterPath="$PROJECT_DIR$/template/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/sections/welcome/welcome.ctrl.js" afterPath="$PROJECT_DIR$/template/sections/welcome/welcome.ctrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/sections/welcome/welcome.tpl.html" afterPath="$PROJECT_DIR$/template/sections/welcome/welcome.tpl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/services/svc_api.js" afterPath="$PROJECT_DIR$/template/services/svc_api.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,11 +29,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/template/index.php">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="91" column="20" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="91" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.core.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/app.core.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/app.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/app.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.val.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/services/page.val.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svc_api.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/services/svc_api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!block;n#readMerchantData#0;n#!!block;n#dataService#0" expanded="false" />
+                <element signature="e#2347#2385#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bar.ctrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/components/bar/bar.ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ngEnter.drct.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/directives/ngEnter.drct.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.ctrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/sections/search/search.ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.tpl.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/sections/search/search.tpl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,6 +137,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>in orde</find>
+      <find>state</find>
+      <find>ou are alwayes welcomed</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,7 +147,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/template/sections/welcome/welcome.ctrl.js" />
+        <option value="$PROJECT_DIR$/template/sections/welcome/welcome.tpl.html" />
         <option value="$PROJECT_DIR$/template/index.php" />
+        <option value="$PROJECT_DIR$/template/app.routes.js" />
+        <option value="$PROJECT_DIR$/template/sections/search/search.ctrl.js" />
+        <option value="$PROJECT_DIR$/template/sections/search/search.tpl.html" />
+        <option value="$PROJECT_DIR$/template/services/svc_api.js" />
       </list>
     </option>
   </component>
@@ -121,79 +208,25 @@
               <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="directives" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sections" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
               <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx16.1.5" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx17.1.8" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx17.1.8" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx17.1.8" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="angularJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angularJS" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dx17.1.8" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -205,16 +238,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ciklopea-erp" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="B:\xamp\htdocs\angularJS\template\assets\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\xamp\htdocs\angularJS\template\sections" />
+      <recent name="B:\xamp\htdocs\angularJS\template\components" />
+      <recent name="B:\xamp\htdocs\angularJS\template\directives" />
+      <recent name="B:\xamp\htdocs\angularJS\template\assets\img" />
       <recent name="B:\xamp\htdocs\angularJS\template\assets\js\dx" />
-      <recent name="B:\xamp\htdocs\angularJS\template\assets" />
-      <recent name="B:\xamp\htdocs\angularJS\template\assets\fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,12 +274,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569356559743</updated>
-      <workItem from="1569356561027" duration="2105000" />
+      <workItem from="1569356561027" duration="12799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2105000" />
+    <option name="totallyTimeSpent" value="12799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -254,6 +289,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -264,7 +300,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -296,11 +331,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template/services/svc_login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sections/search/search.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sections/welcome/welcome.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sections/welcome/welcome.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="91" column="20" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="91" selection-end-column="20" />
+        <state relative-caret-position="328">
+          <caret line="260" column="22" lean-forward="false" selection-start-line="254" selection-start-column="12" selection-end-line="260" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/app.services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/app.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/app.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/app.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/app.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/services/page.val.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/components/bar/bar.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/directives/ngEnter.drct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sections/search/search.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sections/search/search.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/services/svc_api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!block;n#readMerchantData#0;n#!!block;n#dataService#0" expanded="false" />
+            <element signature="e#2347#2385#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

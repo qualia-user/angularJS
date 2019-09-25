@@ -101,7 +101,7 @@
                 <div class="logo">
                     <a href="http://www.creative-tim.com" class="simple-text logo-mini">
                         <div class="logo-image-small">
-                            <img src="assets/commissions_favicon.png">
+                            <img src="assets/img/commissions_favicon.png">
                         </div>
                     </a>
                     <a href="#Welcome" class="simple-text logo-normal">
@@ -184,16 +184,6 @@
                             <span class="navbar-toggler-bar navbar-kebab"></span>
                         </button>
                         <div class="collapse navbar-collapse justify-content-end" id="navigation">
-                            <!--                        <form>-->
-                            <!--                            <div class="input-group no-border">-->
-                            <!--                                <input type="text" value="" class="form-control" placeholder="Search...">-->
-                            <!--                                <div class="input-group-append">-->
-                            <!--                                    <div class="input-group-text">-->
-                            <!--                                        <i class="nc-icon nc-zoom-split"></i>-->
-                            <!--                                    </div>-->
-                            <!--                                </div>-->
-                            <!--                            </div>-->
-                            <!--                        </form>-->
                             <ul class="navbar-nav">
                                 <li class="nav-item">
                                     <a class="nav-link btn-magnify" href="mailto:clover@qualia.hr">
@@ -253,12 +243,56 @@
         <!--            </div>-->
         <!--        </div>-->
 
+
+
         <section id="main">
             <div class="container">
 
                 <div ui-view class="root-ui-view"></div>
             </div>
         </section>
+
+<!--        <section id="site-bar" data-ng-controller="BarController as bar">-->
+<!--            <div class="container">-->
+<!--                <h1>{{bar.data.title}}</h1>-->
+<!--                <p>{{bar.data.description}}</p>-->
+<!--            </div>-->
+<!--            <div class="page-loader" data-ng-show="bar.data.loading"><div class="throbber"></div></div>-->
+<!--        </section>-->
+
+
+        <!--        footer-->
+        <footer class="footer footer-black  footer-white ">
+            <div class="container-fluid">
+                <div class="row">
+                    <nav class="footer-nav">
+                        <ul>
+                            <li>
+                                <a href="https://qualiadatasciences.com/" target="_blank"><img src="assets/img/powered_by_businessQ.png"/></a>
+                            </li>
+                            <li class="text-muted small">
+                                {{powered_by_text}}
+                            </li>
+                            <li class="text-muted small">
+                                <a href="https://qualiadatasciences.com/analytics-app-for-clover-privacy-policy/" target="_blank" style=text-decoration:underline;">{{Privacy_policy}}</a>
+                            </li>
+                            <li class="text-muted small">
+                                <a href="https://qualiadatasciences.com/analytics-app-for-clover-eula/" target="_blank" style=text-decoration:underline;">EULA</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="credits ml-auto">
+      <span class="copyright">
+        ©
+        <script>
+          document.write(new Date().getFullYear())
+
+        </script>, made with <i class="fa fa-heart heart"></i> by <a href="https://qualiadatasciences.com/">QualiaDataSciences</a>
+      </span>
+                    </div>
+                </div>
+            </div>
+        </footer>
 
 <!--        <div ui-view class="root-ui-view"></div>-->
 
@@ -312,9 +346,16 @@
 
 <!-- CONTROLLERS -->
 <script src="sections/welcome/welcome.ctrl.js"></script>
+<script src="sections/search/search.ctrl.js"></script>
+<script src="components/bar/bar.ctrl.js"></script>
 
 <!--    Services -->
 <script src="services/page.val.js"></script>
 <!--        <script src="services/svc_api.js" type="text/javascript"></script>-->
+
+<!--DIRECTIVES                -->
+<script src="directives/ngEnter.drct.js"></script>
+
+
 </body>
 </html>

@@ -1,0 +1,15 @@
+<div class="search-top">
+    <div class="input-group">
+        <input type="text" class="form-control input-lg" data-ng-enter="search.setSearch()">
+    </div>
+</div>
+<div class="search-results">
+    <div class="no-data" data-ng-if="search.loading == null">Use the search box above to find your reports</div>
+    <div class="no-data" data-ng-if="search.reports.length == 0 && search.loading == false">Your search did not return any results</div>
+    <div class="throbber" data-ng-show="search.loading"></div>
+    <ul class="list-of-reports" data-ng-show="search.loading == false">
+        <li class="col-xs-6 col-md-4 repeat-animation" data-ng-repeat="report in search.reports">
+
+        </li>
+    </ul>
+</div>
